@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "backpack build && node ./build",
+    "start": "backpack build && node ./build/main.js",
     "dev": "backpack"
   },
   "keywords": [],
